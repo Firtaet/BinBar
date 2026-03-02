@@ -1,0 +1,1 @@
+BnBar is a simple utility written in WinApi that adds a recycle bin to the system tray. Unlike most similar programs, this program is lightweight (36 kilobytes) and, thanks to WinApi, is fully compatible with Windows.
